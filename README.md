@@ -1,0 +1,2 @@
+# Design-and-analysics-of-microstrip-patch-antenna-for-WLAN-application
+The objective of the single band patch antenna operating at 5.488GHz (WLAN) Under flat and bend condition of different radius of 40mm, 50mm And 60mm. A 1.5mm Rogers RT5880 is used as a substrate and Copper is used as a conductive material. The relative permittivity And tangent loss of the substrate is 2.2 and 0.0009 respectively.
